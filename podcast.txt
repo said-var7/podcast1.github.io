@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Podcast Mexico vs EEUU</title>
+  <style>
+    body {
+      background-color: #eafaf1;
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      font-size: 40px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .linea {
+      height: 3px;
+      background-color: #58d68d;
+      margin: 20px 0;
+    }
+    .contenido {
+      font-size: 18px;
+      line-height: 1.6;
+      text-align: justify;
+    }
+    .video {
+      margin-top: 30px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Podcast Mexico vs EEUU</h1>
+  <div class="linea"></div>
+
+  <div class="contenido">
+    Nuestro podcast fue realizado por Said Vargas, Ángel Tamayo, Maximiliano Vazquez, y Cesar Telles.  
+    Abordamos el tema de las protestas de los migrantes latinos en Estados Unidos, todos los casos de desigualdad, violencia, y la deportación masiva que ha tenido el presidente Donald Trump con no solo los mexicanos sino también con todos los latinos que no tengan todos sus papeles, tratamos temas sobre el por qué son las protestas, qué causan, sus repercusiones dentro del futbol tanto para los aficionados como para el negocio del futbol, también hablamos sobre las repercusiones que podría tener tanto México como Estados Unidos ante esta situación, exploramos posibles soluciones, analizamos opciones, comparamos casos, mostramos ejemplos y discutimos sobre el caso con datos y opiniones de los 4 integrantes del equipo.  
+    <br><br>
+    ¿Por qué este tema?  
+    La verdad que este tema nos interesó mucho debido a que es un tema que nos termina afectando a todos de una u otra razón, además que es un tema muy reciente y muy interesante, es muy extenso el tema debido a que están sucediendo muchas cosas al mismo tiempo.
+  </div>
+
+  <div class="linea"></div>
+
+  <div class="video">
+    <!-- Inserta aquí el código de tu video, por ejemplo de YouTube -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" 
+    title="Podcast Mexico vs EEUU" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+</body>
+</html>
